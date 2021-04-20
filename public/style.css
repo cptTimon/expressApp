@@ -61,8 +61,6 @@ button {
 }
 
 .isError {
-  background: #fff;
-  color: #000;
   border-left: 4px solid #111;
   padding: 0.9rem 0.8rem;
   margin: 1rem auto 1.5rem auto;
@@ -81,8 +79,6 @@ button {
 }
 
 .isSent {
-  background: #fff;
-  color: #000;
   border-left: 4px solid #111;
   padding: 0.9rem 0.8rem;
   margin: 1rem auto 1.5rem auto;
